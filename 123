@@ -1,0 +1,6 @@
+type
+c = const;
+begin
+c=5;
+writeln(c);
+end.
